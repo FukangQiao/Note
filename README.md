@@ -1,8 +1,6 @@
 # 学习笔记
   	主要包括工具学习技巧
 
-
-
 ​	上传到Github
 
 ​	Pull/Push
@@ -29,5 +27,9 @@ Fork别人的项目 如何更新
 
 ```
 https://www.jianshu.com/p/021bb953ee8d
+```
+
+```
+私人密钥去除
 ```
 
