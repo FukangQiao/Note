@@ -2,13 +2,15 @@
 
 ### SAR Imaging Geodesy 
 
-![image-20240522172347077](.\pic\image-20240522172347077.png)
+![image-20240522172347077](./pic/image-20240522172347077.png)
+
+
 
 
 
 ## Lecture 1 SAR Satellite
 
-![image-20240522172459737](E:\05_MyCode\Note\Peking university\pic\image-20240522172459737.png)
+![image-20240522172459737](./pic/image-20240522172459737.png)
 
 
 
