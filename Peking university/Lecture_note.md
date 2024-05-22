@@ -2,13 +2,17 @@
 
 ### SAR Imaging Geodesy 
 
-![image-20240522172347077](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20240522172347077.png)
+![image-20240522172347077](E:\05_MyCode\Note\Peking university\pic\image-20240522172347077.png)
 
 ## Lecture 1 SAR Satellite
 
-![image-20240522172459737](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20240522172459737.png)
+![image-20240522172459737](E:\05_MyCode\Note\Peking university\pic\image-20240522172459737.png)
 
-![image-20240522172520884](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20240522172520884.png)
+
+
+![image-20240522172520884](E:\05_MyCode\Note\Peking university\pic\image-20240522172520884.png)
+
+
 
 - SAR数据下载及SAR数据处理软件总结在SAR_data_download.md中
 
@@ -29,19 +33,25 @@
 - 成像雷达
   - 幅度：目标反射率大小
   - 相位：传感器到目标的距离记录
-  - ![image-20240522174021585](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20240522174021585.png)
-  - ![image-20240522174157869](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20240522174157869.png)
+  - ![image-20240522174021585](E:\05_MyCode\Note\Peking university\pic\image-20240522174021585.png)
+  - 
+  - ![image-20240522174157869](E:\05_MyCode\Note\Peking university\pic\image-20240522174157869.png)
+  - 
 - **Imaging Radar-Real Aperture**
-  - ![image-20240522174255137](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20240522174255137.png)
+  - ![image-20240522174255137](E:\05_MyCode\Note\Peking university\pic\image-20240522174255137.png)
+  - 
 - **Imaging Radar - Synthetic Aperture**
-  - ![image-20240522174330136](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20240522174330136.png)
-  - ![image-20240522174431527](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20240522174431527.png)
+  - ![image-20240522174330136](E:\05_MyCode\Note\Peking university\pic\image-20240522174330136.png)
+  - ![image-20240522174431527](E:\05_MyCode\Note\Peking university\pic\image-20240522174431527.png)
+  - 
 
-![image-20240522174527052](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20240522174527052.png)
+![image-20240522174527052](E:\05_MyCode\Note\Peking university\pic\image-20240522174527052.png)
+
+
 
 ## Lecture 3 SAR Amplitude
 
-<img src="C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20240522193235783.png" alt="image-20240522193235783" style="zoom:67%;" />
+<img src="E:\05_MyCode\Note\Peking university\pic\image-20240522193235783.png" alt="image-20240522193235783" style="zoom:67%;" />
 
 - **Data Storage**
 
@@ -55,27 +65,35 @@
 
 - 方位向距离向坐标系
 
-  ![image-20240522194209279](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20240522194209279.png)
+  ![image-20240522194209279](E:\05_MyCode\Note\Peking university\pic\image-20240522194209279.png)
+
+  
 
   
 
 - 地形畸变
 
-![image-20240522194341909](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20240522194341909.png)
+![image-20240522194341909](E:\05_MyCode\Note\Peking university\pic\image-20240522194341909.png)
 
-![image-20240522194554843](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20240522194554843.png)
+
+
+![image-20240522194554843](E:\05_MyCode\Note\Peking university\pic\image-20240522194554843.png)
+
+
 
 - 介电属性、极化特征与地物的关系
 
-![image-20240522200818226](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20240522200818226.png)
+![image-20240522200818226](E:\05_MyCode\Note\Peking university\pic\image-20240522200818226.png)
 
 ## SAR Geometory
 
 - 理解成像几何（升轨）
 
-![image-20240522211641717](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20240522211641717.png)
+![image-20240522211641717](E:\05_MyCode\Note\Peking university\pic\image-20240522211641717.png)
 
 - 理解成像几何（降轨）
 
-![image-20240522211716938](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20240522211716938.png)
+![image-20240522211716938](E:\05_MyCode\Note\Peking university\pic\image-20240522211716938.png)
+
+
 
