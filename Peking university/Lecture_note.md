@@ -2,7 +2,9 @@
 
 ### SAR Imaging Geodesy 
 
-![image-20240522172347077](E:\05_MyCode\Note\Peking university\pic\image-20240522172347077.png)
+![image-20240522172347077](.\pic\image-20240522172347077.png)
+
+
 
 ## Lecture 1 SAR Satellite
 
@@ -95,5 +97,15 @@
 
 ![image-20240522211716938](E:\05_MyCode\Note\Peking university\pic\image-20240522211716938.png)
 
+![image-20240522213624117](E:\05_MyCode\Note\Peking university\pic\image-20240522213624117.png)
 
+
+
+```
+椭球方程
+多普勒方程
+距离方程
+```
+
+![image-20240522213930337](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20240522213930337.png)
 
