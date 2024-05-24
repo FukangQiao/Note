@@ -202,7 +202,67 @@ Wang, T., et al., (2010), InSAR coherence-decomposition analysis, *IEEE* *Geosci
 
 ![SARline-of-sight.png](./pic/SAR_line-of-sight.png)
 
+- 由InSAR LOS向形变如何得到2D、3D地表形变？
+  - ![2d](./pic/2d.png)
+  - ![3d](./pic/3d.png)
 
+## Errors in InSAR
+
+![error_sources.png](./pic/error_sources.png)
+
+- Unwrapping
+  - Principles: (-π,+π] -> continuous
+  - Difficulties and solutions
+
+- Baseline errors
+  - Satellite orbits 
+  - Model (polynomial)
+
+- DEM errors
+  - Determined relation with the perpendicular baseline
+
+- Atmospheric artifacts
+  - Categories: troposphere + ionosphere
+  - Characteristics
+  - Model (power-law, polynomial)
+
+​		
+
+![inaccurate_dem.png](./pic/inaccurate_dem.png)
+
+## Time series analysis
+
+![multiple_differential_interferograms.png](./pic/multiple_differential_interferograms.png)
+
+时序分析技术
+
+- Stacking
+  - ![limitation_stacking.png](./pic/limitation_stacking.png)
+- PS（Permanent/Persistent Scatterers InSAR (PSI)）
+  - detect stable point-like points
+  - ![parameters.png](./pic/parameters.png)
+  - Reference:Ferretti et al., Permanent Scatterers in SAR Interferometry, 2001
+- SBAS（Small-Baseline Subset Analysis (SBSA)）
+  - ![sbas](./pic/sbas.png)
+
+### Time series Applications
+
+- PSInSAR
+- SqueeSAR
+- **中小地震微弱同震形变提取方法**
+- **上海市沉降**
+
+**Software**
+
+- LicSBAS ：an open source InSAR time series analysis package
+
+  更多细节请参考LiCSBAS的主页：https://github.com/yumorishita/LiCSBAS
+
+  LiCSBAS主页提供了一个处理的实例供参考：https://raw.githubusercontent.com/wiki/yumorishita/LiCSBAS/sample/LiCSBAS_sample_CF.tar.gz
+
+## Large-scale SAR interferometry
+
+- DeepLInSAR
 
 
 
