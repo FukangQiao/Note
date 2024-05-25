@@ -1,0 +1,6 @@
+Gauss_Main 高斯消元法的Main函数
+LU_Main LU三角分解法的Main函数
+Square_Root_main 平方根法的Main函数
+Square_RootImproved_main 改进平方根法的Main函数
+Time_constrast 求根时间对比Main函数
+可直接运行上述Main函数

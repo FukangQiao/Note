@@ -1,0 +1,11 @@
+clear
+clc
+a=0;
+b=1;
+ya=1;
+%h=0.2;
+h=1/20;
+f=@(x,y)y-x*2/y;
+eulers(f,a,b,ya,h);
+impeuler(f,a,b,ya,h);
+rk4m(f,a,b,ya,h);
